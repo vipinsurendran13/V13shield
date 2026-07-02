@@ -1,0 +1,55 @@
+{
+  "total_variants_scanned": 5,
+  "findings": [
+    {
+      "sample": "PATIENT01",
+      "gene": "DPYD",
+      "star_allele": "DPYD*2A",
+      "rsid": "rs3918290",
+      "drug_class": "Fluoropyrimidines",
+      "drugs": [
+        "5-Fluorouracil (5-FU)",
+        "Capecitabine"
+      ],
+      "zygosity": "het",
+      "activity": "no function",
+      "effect": "Splice site variant, no functional enzyme",
+      "risk_summary": "Reduced DPD enzyme activity causes slow clearance of fluoropyrimidines, leading to severe, potentially fatal toxicity (severe neutropenia, mucositis, diarrhea) at standard doses.",
+      "genotype_raw": "0/1"
+    },
+    {
+      "sample": "PATIENT01",
+      "gene": "NUDT15",
+      "star_allele": "NUDT15*3",
+      "rsid": "rs116855232",
+      "drug_class": "Thiopurines",
+      "drugs": [
+        "6-Mercaptopurine",
+        "Azathioprine",
+        "Thioguanine"
+      ],
+      "zygosity": "hom_alt",
+      "activity": "no function",
+      "effect": "Missense, no function",
+      "risk_summary": "Reduced NUDT15 activity causes toxic accumulation of active thiopurine metabolites; especially important in East and South Asian populations where this variant is more common than TPMT deficiency.",
+      "genotype_raw": "1/1"
+    },
+    {
+      "sample": "PATIENT01",
+      "gene": "UGT1A1",
+      "star_allele": "UGT1A1*6",
+      "rsid": "rs4148323",
+      "drug_class": "Topoisomerase inhibitors",
+      "drugs": [
+        "Irinotecan"
+      ],
+      "zygosity": "het",
+      "activity": "decreased function",
+      "effect": "Missense, decreased function. Common in East/South Asian populations, often missed by Western-focused panels.",
+      "risk_summary": "Reduced UGT1A1 enzyme activity causes toxic accumulation of the active irinotecan metabolite (SN-38), leading to severe neutropenia and diarrhea at standard doses.",
+      "genotype_raw": "0/1"
+    }
+  ],
+  "db_version": "1.0-2026-07",
+  "disclaimer": "This tool is a research/screening aid, not a diagnostic device. All flagged results must be confirmed by a certified clinical pharmacogenomics lab and interpreted by a qualified oncologist/clinical pharmacist before any dosing decision."
+}
