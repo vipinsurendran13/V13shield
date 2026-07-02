@@ -1,10 +1,10 @@
 # V13Shield
 
-**Version:** 1.0.0<r>
-**Updated:** 01 July 2026<r>
-**Author:** Vipin Surendra Kumar<r>
-**Language:** Python 3<r>
-**Containerisation:** Docker • Singularity • Apptainer<r>
+**Version:** 1.0.0<br>
+**Updated:** 01 July 2026<br>
+**Author:** Vipin Surendra Kumar<br>
+**Language:** Python 3<br>
+**Containerisation:** Docker • Singularity • Apptainer<br>
 **Sif image:** https://hub.docker.com/r/vipinsurendran13/v13shield
 ---
 
