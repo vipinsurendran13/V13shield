@@ -1,6 +1,6 @@
 # V13Shield
 
-**Version**: 1.0.0<br>
+**Version:** 1.0.0<br>
 **Updated:** 01 July 2026<br>
 **Author:** Vipin Surendra Kumar<br>
 **Language:** Python 3<br>
